@@ -27,13 +27,17 @@ Microservices architectures make applications easier to scale and faster to deve
 5. AWS Application Load balancer added suring creation of services so that loads can be equally distributed.
 6. (Optional) We can enable Autoscaling as well based on requirement
 ### Complete Architechture Diagram
-[![N|Solid](https://django-blog-dip.s3.amazonaws.com/1.png)]
+![1](https://user-images.githubusercontent.com/89570404/222336167-e8553b0e-bd2d-4a21-8708-0be8287a7d4a.png)
 
 ### Microservice Deployment Cloud Architechture
-[![N|Solid](https://django-blog-dip.s3.amazonaws.com/2.png)]
+![2](https://user-images.githubusercontent.com/89570404/222336213-e373cf56-5efd-4ea8-8125-3a2eb972bdfb.png)
+
 
 ### CICD Pipeline Deployment Automation
-[![N|Solid](https://django-blog-dip.s3.amazonaws.com/3.png)]
+![3](https://user-images.githubusercontent.com/89570404/222336230-6425ef90-08d8-4c6d-a5da-8517fdd69347.png)
+
+### Application is Running in AWS Fargate behind Application Load Balncer
+![4](https://user-images.githubusercontent.com/89570404/222337122-ee8067e6-5390-446b-b1d3-621c2dd8be2f.png)
 
 
 ## Tech
